@@ -1,0 +1,10 @@
+{
+  "remoteServiceBaseUrl": "http://localhost:22742",
+  "appBaseUrl": "http://localhost:4300",
+  "localeMappings": [
+    {
+      "from": "vi-VN",
+      "to": "vi"
+    }
+  ]
+}
