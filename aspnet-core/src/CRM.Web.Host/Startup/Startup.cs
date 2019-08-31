@@ -147,7 +147,7 @@ namespace CRM.Web.Startup
             //Initializes ABP framework.
             app.UseAbp(options =>
             {
-                options.UseAbpRequestLocalization = false; //used below: UseAbpRequestLocalization
+                options.UseAbpRequestLocalization = true; //used below: UseAbpRequestLocalization
             });
 
             app.UseCors(DefaultCorsPolicyName); //Enable CORS!
