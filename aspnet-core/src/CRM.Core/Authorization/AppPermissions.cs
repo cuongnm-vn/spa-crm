@@ -37,6 +37,8 @@
         public const string Pages_Administration_OrganizationUnits_ManageOrganizationTree = "Pages.Administration.OrganizationUnits.ManageOrganizationTree";
         public const string Pages_Administration_OrganizationUnits_ManageMembers = "Pages.Administration.OrganizationUnits.ManageMembers";
 
+        public const string Pages_Categories = "Pages.Categories";
+
         public const string Pages_Administration_HangfireDashboard = "Pages.Administration.HangfireDashboard";
 
         public const string Pages_Administration_UiCustomization = "Pages.Administration.UiCustomization";
